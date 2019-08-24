@@ -7,9 +7,6 @@ import com.ahmaddudayef.mvvm_arch_component.models.NicePlace;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Ahmad Dudayef on 5/29/2019.
- */
 
 /**
  * Singleton pattern

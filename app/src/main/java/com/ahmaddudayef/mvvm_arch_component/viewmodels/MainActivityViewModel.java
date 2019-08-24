@@ -10,9 +10,7 @@ import com.ahmaddudayef.mvvm_arch_component.repositories.NicePlaceRepository;
 
 import java.util.List;
 
-/**
- * Created by Ahmad Dudayef on 5/29/2019.
- */
+
 public class MainActivityViewModel extends ViewModel {
 
     private MutableLiveData<List<NicePlace>> mNicePlaces;

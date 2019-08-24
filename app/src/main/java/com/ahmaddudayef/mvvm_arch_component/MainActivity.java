@@ -1,7 +1,6 @@
 package com.ahmaddudayef.mvvm_arch_component;
 
 import android.arch.lifecycle.Observer;
-import android.arch.lifecycle.ViewModelProvider;
 import android.arch.lifecycle.ViewModelProviders;
 import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
@@ -16,7 +15,6 @@ import com.ahmaddudayef.mvvm_arch_component.adapters.RecyclerAdapter;
 import com.ahmaddudayef.mvvm_arch_component.models.NicePlace;
 import com.ahmaddudayef.mvvm_arch_component.viewmodels.MainActivityViewModel;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {

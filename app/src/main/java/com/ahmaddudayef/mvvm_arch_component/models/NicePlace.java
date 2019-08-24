@@ -1,8 +1,5 @@
 package com.ahmaddudayef.mvvm_arch_component.models;
 
-/**
- * Created by Ahmad Dudayef on 5/29/2019.
- */
 public class NicePlace {
     private String title;
     private String imageUrl;
